@@ -8,4 +8,4 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=9pvp&theme=discord_old_blurple&show_icons=false)
 ## Info
  - Discord: Ferrioz#5783
- - Website: https://9ware.cc
+ - Website: *https://9ware.cc*
