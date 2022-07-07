@@ -1,7 +1,7 @@
 ## Ferrioz
 - Working on 9ware.cc
 - Malware analyzing 😎
-- Skid Life Matters<br>
+- Pastebin auth enjoyer<br>
 ######
 ![9pvp's GitHub stats](https://github-readme-stats.vercel.app/api?username=9pvp&theme=discord_old_blurple&show_icons=false)
 <br>
