@@ -1,4 +1,7 @@
 ## Ferrioz
+
+**16 Year old software engineer with 4+ years of experience**
+
 - Working on 9ware.cc
 - Malware analyzing 😎
 - Pastebin auth enjoyer<br>
