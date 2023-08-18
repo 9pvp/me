@@ -2,7 +2,7 @@
 
 **17 Year old software developer with 4+ years of experience**
 
-- Working on 9ware.cc
+- Learning C#
 - Malware analyzing 😎
 - Pastebin auth enjoyer<br>
 ######
