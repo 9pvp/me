@@ -2,7 +2,7 @@
 
 **17 Year old software developer with 4+ years of experience**
 
-- Learning C#
+- Learning C#, Javascript and Web Development
 - Malware analyzing 😎
 - Pastebin auth enjoyer<br>
 ######
