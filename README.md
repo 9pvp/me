@@ -1,6 +1,6 @@
 ## Ferrioz
 
-**17 Year old software developer with 4+ years of experience**
+**17 Year old software developer from sweden with 4+ years of experience**
 
 - Learning C#, Java and Web Development
 - Malware analyzing 😎
